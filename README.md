@@ -1,7 +1,7 @@
-# EvenstarBistro
+# Mine and Dine
 University project, of Evenstar bistro a casual adventure RPG with a side of management
 
 The game is about hunting monsters to cook them and sell them at your restaurant similar to a wild game restaurant
 
 **Story**
-You play as Ava Rand who dreams of opening a restaurant in her hometown called the Evenstar City. Ava Rand is someone who gets bored rather easily so she thought that it would be much more interesting if she opened a wild game restaurant since she has a licence for hunting. With the help of her friend Masaru Link she managed to open a restaurant of her dreams. Unfortunately for Ava a ferocious beast decided to take the nearby hunting grounds as its home.
+One day a food-loving dwarf named Stromboli forgot to bring his lunch to work, he was forced to try eating monsters. It turns out that food made from monsters is a very tasty thing, since then he has continued to cook monsters. One day Stromboli's brother got an order from the leader of the dwarves to find a cheap source of food, remembered by his brother he called Stromboli to provide a solution. But Stromboli's idea was rejected because the leader did not believe in food made from monsters. To prove this idea Stromboli and his brother opened a canteen for other dwarven workers.
